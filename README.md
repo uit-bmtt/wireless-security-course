@@ -55,7 +55,7 @@ The topics covered in this course are:
 
 | Name | Description
 |---| ---|
-| Cracking Wifi Web passwork | [resources](resourses/projects/project-2.md)
+| Cracking Wifi Web Password | [resources](resourses/projects/project-2.md)
 
 
 
