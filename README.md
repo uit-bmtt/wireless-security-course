@@ -41,29 +41,20 @@ Books:
 <a  name="schedule"></a>  
 ### 2. Schedule
 
-[pdf](resourses/slides/lec-01.pdf)
 
-| Week | Topic | Notes | Reading | Assignment |--|--|-- | -- | -- | | 1
-| Course Introduction, Wireless Basic
-|[pdf](resourses/slides/lec-01.pdf) | Ch.1, Ch.2, Ch.3 | | | 2 | Stream
-and Block Ciphers, review security concepts
-|[pdf](resourses/slides/lec-03.pdf) | | Homework 1 | | 3 | 802.11
-Architecture, Security Challenges | [pdf](resourses/slides/lec-05.pdf) |
-Ch. 4, Ch. 5 book Adney and Arbaugh | Project and Challenge 1 | | 4 |
-Attack and Security Tools | [pdf](resourses/slides/lec-07.pdf) | Ref. at
-the end of slides | Quiz 1 | | 5 | 802.11 Security Mechanism (WEP, WPA,
-RSN) | [pdf](resourses/slides/lec-09.pdf) | Ref. at the end of slides |
-| | 6 | Access Control: 802.11X, EAP, Radius
-|[pdf](resourses/slides/lec-10.pdf)| Ch. 8 book Adney and Arbaugh |
-Project 1 due day | | 7 | WPA, TKIP, RSN Key Hierarchy
-|[pdf](resourses/slides/lec-13.pdf) | Ch. 9 book Adney and Arbaugh |
-Project 1 due day | | 8 | Ad Hoc Network
-|[pdf](resourses/slides/lec-20.pdf) | Ref at the end of Notes | Project
-2 assigned | | 9 | Routing Security |
-[pdf](resourses/slides/lec-21.pdf)| Ref at the end of Notes | Research
-Reading assigned | | 10 | Sensor Network Security
-|[pdf](resourses/slides/lec-23.pdf) | Ref at the end of Notes | Quiz 2 |
-| 11-14 | Student Presentation | | | |
+| Week | Topic  |  Notes | Reading |  Assignment
+|--|--|-- | -- | -- |
+| 1 | Course Introduction, Wireless Basic |[pdf](resourses/slides/lec-01.pdf) | Ch.1, Ch.2, Ch.3 |  |
+| 2 | Stream and Block Ciphers, review security concepts | [pdf](resourses/slides/lec-03.pdf)|  | Homework 1  |
+| 3 | 802.11 Architecture, Security Challenges |[pdf](resourses/slides/lec-05.pdf) | Ch. 4, Ch. 5 book Adney and Arbaugh  | Project and Challenge 1  |
+| 4 | Attack and Security Tools |[pdf](resourses/slides/lec-07.pdf) | Ref. at the end of slides  | Quiz 1  |
+| 5 | 802.11 Security Mechanism (WEP, WPA, RSN) | [pdf](resourses/slides/lec-09.pdf)| Ref. at the end of slides  |   |
+| 6 | Access Control: 802.11X, EAP, Radius | [pdf](resourses/slides/lec-10.pdf)| Ch. 8 book Adney and Arbaugh  |  Project 1 due day  |
+| 7 | WPA, TKIP, RSN Key Hierarchy |[pdf](resourses/slides/lec-13.pdf) | Ch. 9 book Adney and Arbaugh  |  Project 1 due day  |
+| 8 | Ad Hoc Network |[pdf](resourses/slides/lec-20.pdf) | Ref at the end of Notes  |  Project 2 assigned  |
+| 9 | Routing Security |[pdf](resourses/slides/lec-21.pdf) | Ref at the end of Notes  |  Research Reading assigned |
+| 10 | Sensor Network Security |[pdf](resourses/slides/lec-23.pdf) | Ref at the end of Notes  |  Quiz 2 |
+| 11-14 | Student Presentation | |   |  |
 
 
 
