@@ -41,7 +41,7 @@ Books:
 <a  name="schedule"></a>  
 ### 2. Schedule
 
-[a workaround link](wireless-security-course/blob/master/resourses/slides/lec-01-wlan-basics.ppt)
+[a workaround link](resourses/slides/lec-01-wlan-basics.ppt)
 
 | Week | Topic  |  Notes | Reading |  Assignment
 |--|--|-- | -- | -- |
