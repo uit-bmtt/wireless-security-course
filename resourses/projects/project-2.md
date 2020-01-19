@@ -53,7 +53,7 @@ WEP. Do include the specifics about the hardware used like the Make, Model numbe
 OS, CPU speed, Memory capacity and Wireless Card make and model.
 2. Demonstration: You only need to demonstrate the cracking of two
   different WEP keys (both 40 bit keys). The demonstration may be held
-  in a lab or conference room in Davis Hall. A sign-up sheet will be set
+  in a lab or class room. A sign-up sheet will be set
   up a few days prior to the submission date. If you finish the project
   sooner than the deadline, demonstration can be held prior to the
   deadline as well.
