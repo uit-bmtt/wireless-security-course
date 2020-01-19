@@ -26,14 +26,8 @@ The topics covered in this course are:
  - Advanced Topics - Robust localization in sensor networks, Security in wireless mesh networks, Trust issues in MANETs, and QoS-Aware MAC protocols and their security implications, 802.16, 802.20 standards.
  - Countermeasures and Mitigation - Rudimentary countermeasures (SSID, MAC Filters, Static WEP, Periodic monitoring), Intermediate countermeasures (Rogue equipment, Protocol filters, SNMP, Client security, IP services), Authentication and Encryption (Wireless DMZ and VLANs, Authenticated DHCP, Wireless security auditing, Wireless intrusion detection), Other mitigation techniques (Securing the management interface, Wireless locators).
  - Policy and Analysis - Security policy, Vulnerability analysis, Disaster recovery, Scalability, performance, Cost effectiveness.
- 
-**Grading Policy:** There will be periodic homeworks, projects, quizzes, research reading and final exam. The tentative weights are as follows: 
- - [ ] Homeworks - 10%
- - [ ] Quizzes - 10%
- - [ ] Projects - 30%
- - [ ] Final - 50%
 
-Books: 
+**Books:**
 -   [EDNEY] Real 802.11 Security, Addison Wesley, 2004,   by Jon Edney and William A. Arbaugh.
 -   [STALLINGS] Cryptography and Network Security, Principles and Practices, 7th Edition, Pearson Education, 2017,  by William Stallings.
 -   [KARYGIANNIS] Wireless Networks Security (Draft),  2018,  by Tom Karygiannis and Les Owens.
@@ -57,7 +51,13 @@ Books:
 | 11-14 | Student Presentation | |   |  |
 
 
-
+<a  name="grades"></a>
+### 4. Grades
+**Grading Policy:** There will be periodic homeworks, projects, quizzes, research reading and final exam. The tentative weights are as follows:
+ - [ ] Homeworks - 10%
+ - [ ] Quizzes - 10%
+ - [ ] Projects - 30%
+ - [ ] Final - 50%
 
 
 
