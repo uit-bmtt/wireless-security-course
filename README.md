@@ -41,6 +41,8 @@ Books:
 <a  name="schedule"></a>  
 ### 2. Schedule
 
+[a workaround link](wireless-security-course/blob/master/resourses/slides/lec-01-wlan-basics.ppt)
+
 | Week | Topic  |  Notes | Reading |  Assignment
 |--|--|-- | -- | -- |
 | 1 | Course Introduction, Wireless Basic | | Ch.1, Ch.2, Ch.3 |  | 
