@@ -34,9 +34,9 @@ The topics covered in this course are:
  - [ ] Final - 50%
 
 Books: 
--   [EDNEY] ==Real 802.11 Security, Addison Wesley, 2004==,   by Jon Edney and William A. Arbaugh.  
--   [STALLINGS] ==Cryptography and Network Security, Principles and Practices, 7th Edition, Pearson Education, 2017==,  by William Stallings.  
--   [KARYGIANNIS] ==Wireless Networks Security (Draft),  2018==,  by Tom Karygiannis and Les Owens. 
+-   [EDNEY] Real 802.11 Security, Addison Wesley, 2004,   by Jon Edney and William A. Arbaugh.
+-   [STALLINGS] Cryptography and Network Security, Principles and Practices, 7th Edition, Pearson Education, 2017,  by William Stallings.
+-   [KARYGIANNIS] Wireless Networks Security (Draft),  2018,  by Tom Karygiannis and Les Owens.
   
 <a  name="schedule"></a>  
 ### 2. Schedule
@@ -53,4 +53,14 @@ Books:
 | 8 | Ad Hoc Network | | Ref at the end of Notes  |  Project 2 assigned  | 
 | 9 | Routing Security | | Ref at the end of Notes  |  Research Reading assigned | 
 | 10 | Sensor Network Security | | Ref at the end of Notes  |  Quiz 2 | 
-| 11-14 | Student Presentation | |   |  | 
+| 11-14 | Student Presentation | |   |  |
+
+
+
+
+
+
+
+
+
+
