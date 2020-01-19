@@ -50,6 +50,14 @@ The topics covered in this course are:
 | 10 | Sensor Network Security |[pdf](resourses/slides/lec-23.pdf) | Ref at the end of Notes  |  Quiz 2 |
 | 11-14 | Student Presentation | |   |  |
 
+<a  name="grades"></a>
+### 3. Project
+
+| Name | Description
+|---| ---|
+| Cracking Wifi Web passwork | [resources](resources/projects/project-2.md)
+
+
 
 <a  name="grades"></a>
 ### 4. Grades
