@@ -62,10 +62,9 @@ The topics covered in this course are:
 <a  name="grades"></a>
 ### 4. Grades
 **Grading Policy:** There will be periodic homeworks, projects, quizzes, research reading and final exam. The tentative weights are as follows:
- - [ ] Homeworks - 10%
- - [ ] Quizzes - 10%
- - [ ] Projects - 30%
- - [ ] Final - 50%
+ - [ ] Lab + Attendance - 30%
+ - [ ] Projects + Challenges - 30%
+ - [ ] Final - 40%
 
 
 
