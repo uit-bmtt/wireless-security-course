@@ -19,7 +19,6 @@ comprehensive):
 - Aircrack-ng – ARP spoof/injection using aireplay-ng
 - Kismet – Network Sniffer, can grab IVs as well
 - Airodump – GrabbingIVs
-- Aircrack – Cracking the IVs
 - Commview – Capturing the Packets in Windows.
 
 There are many tutorials
