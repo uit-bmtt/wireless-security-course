@@ -15,8 +15,7 @@ a software that captures the IV’s appended to these captured packets and
 then another that cracks these IV’s to reveal the WEP key. The commonly
 used tools depending on your OS are (this list is by no means
 comprehensive):
-- WEPCrack – Most popular Perl-based WEP encryption cracking tool
-- AirSnort – Passively captures packets and recovers WEP encryptions
+- Aireplay-ng – Most popular Perl-based WEP encryption cracking tool
 - Aircrack-ng – ARP spoof/injection using aireplay-ng
 - Kismet – Network Sniffer, can grab IVs as well
 - Airodump – GrabbingIVs
